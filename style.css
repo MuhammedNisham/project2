@@ -1,0 +1,27 @@
+
+img{
+    width: 200px;
+}
+h2{
+    color: brown; 
+    font-style: italic;
+}
+strong{
+    color: blue;
+}
+table,th,td{
+    border: 1px solid brown;
+}
+li{
+    color:rgb(75, 75, 75);
+    /*list-style-type: disc; */
+}
+li.library{
+    color:brown ;
+}
+#Mathplotlib{
+    color: blueviolet;
+}
+li.fb{
+    color: blue;
+}
